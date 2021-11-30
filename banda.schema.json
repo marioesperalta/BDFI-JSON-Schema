@@ -1,0 +1,82 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "title": "Imminence (band)",
+  "description": "Musical band called Imminence",
+  "properties": {
+    "group": {
+      "description": "Name of the group/band",
+      "type": "string"
+    },
+    "description": {
+      "description": "Basic description of the band",
+      "type": "string"
+    },
+    "members": {
+      "description": "Current members",
+      "type": "object",
+      "properties": {
+        "Eddie Berg": {
+          "type": "string"
+        },
+        "Harald Barret": {
+          "type": "string"
+        },
+        "Alex Arnoldsson": {
+          "type": "string"
+        },
+        "Peter Hanström": {
+          "type": "string"
+        },
+        "Christian Höijer": {
+          "type": "string"
+        }
+      },    
+      "required": [
+        "Eddie Berg",
+        "Harald Barret",
+        "Alex Arnoldsson",
+        "Peter Hanström",
+        "Christian Höijer"
+        ]
+    },
+    "past_members": {
+      "description": "Past members",
+      "type": "object",
+      "properties": {
+        "Fredrik Rosdahl": {
+          "type": "string"
+        },
+        "Max Holmberg": {
+          "type": "string"
+        }
+      },   
+      "required": [
+        "Fredrik Rosdahl",
+        "Max Holmberg",
+        ]
+    },
+    "albums": {
+      "description": "List of studio albums of the band",
+      "type": "array",
+      "items": {
+        "type": "object" 
+      },
+      "uniqueItems": true
+    },
+    "concerts": {
+      "description": "List of concerts of the band in 2021",
+      "type": "array",
+      "items": {
+        "type": "object"
+      },
+      "uniqueItems": true
+    }
+  },    
+  "required": [
+    "group",
+    "description",
+    "members",
+    "albums",
+    "concerts"
+  ]   
+}
