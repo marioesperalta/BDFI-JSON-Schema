@@ -1,0 +1,111 @@
+{
+	"group": "Imminence",
+	"description": "Imminence are a Swedish post-harcore and alternative metalcore band from Trelleborg, Sweden, who formed in 2009.",
+	"members": {
+		"Eddie Berg": "Lead vocals and violin",
+		"Harald Barret": "Lead guitar and backing vocals",
+		"Alex Arnoldsson": "Rhythm guitar", 
+		"Peter Hanström": "Drums",
+		"Christian Höijer": "Bass guitar"
+		},
+	"past_members": {
+		"Fredrik Rosdahl": "Bass guitar",
+		"Max Holmberg": "Bass guitar"
+		},
+	"albums": [
+		{ "name": "I",
+		  "songs": [
+			"Proclaim",
+			"86",
+			"Every Breath",
+			"Salt Of The Earth",
+			"Brokem",
+			"Du",
+			"The Seventh Seal",
+			"Those Who Seek",
+			"Last Legs",
+			"A Sense Of Doubt"
+			],
+		  "year": "2014"
+		},
+		{ "name": "This Is Goodbye",
+		  "songs": [
+			"This Is Goodbye",
+			"Diamonds",
+			"Broken Love",
+			"Coming Undone",
+			"Up",
+			"Daggers",
+			"Cold As Stone",
+			"Keep Me",
+			"Not A Rescue",
+			"Ivory Black",
+			"Desert Place",
+			"Diamonds (Acoustic)",
+			"Keep Me (Acoustic)",
+			"This Is Goodbye (Acoustic)"
+			],
+		  "year": "2017"
+		},
+		{ "name": "Turn the Light On",
+		  "songs": [
+			"Erase",
+			"Paralyzed",
+			"Room to Breathe",
+			"Saturated Soul",
+			"Infectious",
+			"The Sickness",
+			"Death of You",
+			"Scars",
+			"Disconnected",
+			"Wake Me Up",
+			"Don't Tell a Soul",
+			"Lighthouse",
+			"Love & Grace"
+			],
+		  "year": "2019"
+		},
+		{ "name": "Heaven in Hiding",
+		  "songs": [
+			"I am become a name",
+			"Ghost",
+			"Temptation",
+			"Surrender",
+			"Chasing Shadows",
+			"Moth to a Flame",
+			"Alleviate",
+			"Enslaved",
+			"Disappear",
+			"Lost and Left Behind",
+			"This shall pass too",
+			"∞",
+			"Heaven in Hiding"
+			],
+		  "year": "2021"
+		}
+		],
+	
+	"concerts": [
+		{ "date": "14-08-2021",
+		    "place": "Letiště, Hradec Králové, Czech Republic"
+		},
+		{ "date": "09-10-2021",
+		    "place": "ABB Arena Rocklunda, Västerås, Sweden"
+		},
+		{ "date": "27-10-2021",
+		    "place": "Lutakko, Jyväskylä, Finland"
+		},
+		{ "date": "29-10-2021",
+		    "place": "Club Teatria, Tornio, Finland"
+		},
+		{ "date": "30-10-2021",
+		    "place": "Club Teatria Oulu, Oulu, Finland"
+		},
+		{ "date": "31-10-2021",
+		    "place": "Tapahtumakeskus Telakka, Helsinki, Finland"
+		}
+		]
+}
+
+
+
